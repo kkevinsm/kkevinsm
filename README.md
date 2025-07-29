@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=kkevinsm&style=for-the-badge"  />
 </div>
 
-<h1> ### Hello, I'm Kevin Safrisal!/kkevinsm&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" /></h1>
+<h2>Hello, I'm Kevin Safrisal!/kkevinsm&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" /></h2>
 
 🎓 I’m an undergraduate student on **Electrical Automation Engineering Institute Technology Sepuluh Nopember**
 
