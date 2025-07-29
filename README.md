@@ -1,14 +1,14 @@
 <img src="https://media1.tenor.com/m/cbEyvmo9Ii0AAAAC/one-piece-gear-5.gif" width="900">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkevinsm&style=for-the-badge"  />
+  <img width="25px" alt="smiley-pumpkin" src="https://github.com/user-attachments/assets/93c54971-e7fd-4ae5-8456-c3df2dacfd7d" />&nbsp;<img src="https://komarev.com/ghpvc/?username=kkevinsm&style=for-the-badge"  />
 </div>
 
 <h2>Hello, I'm Kevin Safrisal!/kkevinsm&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" /></h2>
 
 🎓 I’m an undergraduate student on **Electrical Automation Engineering Institute Technology Sepuluh Nopember**
 
-Welcome to my GitHub profile! I'm an undergraduate student who loves to make something great and build impactful projects. &nbsp; <img width="25px" alt="image" src="https://github.com/user-attachments/assets/06637dda-fd44-4cf8-95b2-fb9b7c723c61" />
+<img width="25px" alt="image" src="https://github.com/user-attachments/assets/06637dda-fd44-4cf8-95b2-fb9b7c723c61" />&nbsp;Welcome to my GitHub profile! I'm an undergraduate student who loves to make something great and build impactful projects.
 
 
 Tech Stack
