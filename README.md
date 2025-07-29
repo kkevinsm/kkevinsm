@@ -13,9 +13,9 @@
 
 <img width="30px" alt="ship" src="https://github.com/user-attachments/assets/d7bb11f0-8c67-40a1-ace4-c6c1a32d6266" />&nbsp;&nbsp;**Tech Stack**
 
-- **Languages:** &nbsp; JavaScript, PHP, Python, C/C++, MATLAB
-- **Frameworks & Libraries:** &nbsp; React.js, Next.js, Laravel
-- **Databases:** &nbsp; MySQL, PostgreSQL
-- **Tools:** &nbsp; Git, VSCode
+**Languages:** &nbsp; JavaScript, PHP, Python, C/C++, MATLAB
+**Frameworks & Libraries:** &nbsp; React.js, Next.js, Laravel
+**Databases:** &nbsp; MySQL, PostgreSQL
+**Tools:** &nbsp; Git, VSCode
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
