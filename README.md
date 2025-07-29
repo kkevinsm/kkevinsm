@@ -6,7 +6,7 @@
 
 <h1>Hello, I'm Kevin Safrisal! / kkevinsm&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /></h1>
 
-<img width="30px" alt="Graduation-cap" src="https://github.com/user-attachments/assets/fadbdcc3-01ad-4b19-8648-b6258c9eea5f" />&nbsp;&nbsp;I’m an undergraduate student on **Electrical Automation Engineering Institute Technology Sepuluh Nopember**
+<img width="30px" alt="Graduation-cap" src="https://github.com/user-attachments/assets/fadbdcc3-01ad-4b19-8648-b6258c9eea5f" />&nbsp;&nbsp;I’m a student on **Electrical Automation Engineering Institute Technology Sepuluh Nopember**
 
 <img width="30px" alt="rocket" src="https://github.com/user-attachments/assets/06637dda-fd44-4cf8-95b2-fb9b7c723c61" />&nbsp;&nbsp;Welcome to my GitHub profile! I'm an undergraduate student who loves to make something great and build impactful projects.
 
