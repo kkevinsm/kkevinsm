@@ -8,7 +8,7 @@
 
 🎓 I’m an undergraduate student on **Electrical Automation Engineering Institute Technology Sepuluh Nopember**
 
-<table><tr><td valign="top">Welcome to my GitHub profile! I'm an undergraduate student who loves to make something great and build impactful projects.</td><td width="50px" valign="top"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Gifs/Rocket.gif" alt="Rocket" width="25" height="25" /></td></tr></table>
+Welcome to my GitHub profile! I'm an undergraduate student who loves to make something great and build impactful projects.&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Gifs/Rocket.gif" alt="Rocket" width="25" height="25" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Gifs/Desktop%20Computer.gif" width="25" /> &nbsp; Tech Stack
 
