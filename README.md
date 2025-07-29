@@ -11,7 +11,7 @@
 <img width="30px" alt="rocket" src="https://github.com/user-attachments/assets/06637dda-fd44-4cf8-95b2-fb9b7c723c61" />&nbsp;Welcome to my GitHub profile! I'm an undergraduate student who loves to make something great and build impactful projects.
 
 
-<img width="30px" alt="ship" src="https://github.com/user-attachments/assets/d7bb11f0-8c67-40a1-ace4-c6c1a32d6266" />&nbsp;Tech Stack
+<img width="30px" alt="ship" src="https://github.com/user-attachments/assets/d7bb11f0-8c67-40a1-ace4-c6c1a32d6266" />&nbsp;**Tech Stack**
 
 - **Languages:** &nbsp; JavaScript, PHP, Python, C/C++, MATLAB
 - **Frameworks & Libraries:** &nbsp; React.js, Next.js, Laravel
