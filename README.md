@@ -8,9 +8,9 @@
 
 🎓 I’m an undergraduate student on **Electrical Automation Engineering Institute Technology Sepuluh Nopember**
 
-Welcome to my GitHub profile! I'm an undergraduate student who loves to make something great and build impactful projects.&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Gifs/Rocket.gif" alt="Rocket" width="25" height="25" />
+Welcome to my GitHub profile! I'm an undergraduate student who loves to make something great and build impactful projects.&nbsp; <img src="https://media.tenor.com/D_p94J5C560AAAAi/rocket-joypixels.gif" alt="Rocket" width="50" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Gifs/Desktop%20Computer.gif" width="25" /> &nbsp; Tech Stack
+### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Pixel Art Coding" width="100" />&nbsp; Tech Stack
 
 - **Languages:** &nbsp; JavaScript, PHP, Python, C/C++, MATLAB
 - **Frameworks & Libraries:** &nbsp; React.js, Next.js, Laravel
