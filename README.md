@@ -4,7 +4,7 @@
   <img width="30px" alt="smiley-pumpkin" src="https://github.com/user-attachments/assets/93c54971-e7fd-4ae5-8456-c3df2dacfd7d" />&nbsp;<img src="https://komarev.com/ghpvc/?username=kkevinsm&style=for-the-badge"/>&nbsp;<img width="30px" alt="smiley-pumpkin" src="https://github.com/user-attachments/assets/93c54971-e7fd-4ae5-8456-c3df2dacfd7d" />
 </div>
 
-<h1>Hello, I'm Kevin Safrisal!/kkevinsm&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /></h1>
+<h1>Hello, I'm Kevin Safrisal! / kkevinsm&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /></h1>
 
 🎓 I’m an undergraduate student on **Electrical Automation Engineering Institute Technology Sepuluh Nopember**
 
