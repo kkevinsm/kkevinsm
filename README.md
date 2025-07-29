@@ -8,7 +8,7 @@
 
 🎓 I’m an undergraduate student on **Electrical Automation Engineering Institute Technology Sepuluh Nopember**
 
-Welcome to my GitHub profile! I'm an undergraduate student who loves to make something great and build impactful projects. &nbsp; <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/06637dda-fd44-4cf8-95b2-fb9b7c723c61" />
+Welcome to my GitHub profile! I'm an undergraduate student who loves to make something great and build impactful projects. &nbsp; <img width="25px" alt="image" src="https://github.com/user-attachments/assets/06637dda-fd44-4cf8-95b2-fb9b7c723c61" />
 
 
 Tech Stack
