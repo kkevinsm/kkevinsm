@@ -20,7 +20,7 @@
 - #### <img width="26px" alt="xray" src="https://github.com/user-attachments/assets/d14e138c-2da0-4baf-bc7b-4867da70a83d" />&nbsp;&nbsp;**Socials**
 
 <div align="left">
-  <a href="instagram.com/kkevinsm" target="_blank">
+  <a href="https://instagram.com/kkevinsm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/kevinsafrisal/" target="_blank">
